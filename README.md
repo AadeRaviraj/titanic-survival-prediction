@@ -117,7 +117,7 @@ result = model.predict([[3, 0, 22, 1, 0, 7.25, 0, 1]])
    ```
 4. Run the script:
    ```bash
-   python titanic_logistic.py
+   python TitanicLogasticRegression.py
    ```
 5. The trained model will be saved as `marvellousTitanic.pkl` in the same folder
 
